@@ -1,5 +1,7 @@
 # adunkman/s-thoughts-on
 
+> ⚠️ Archived — moved to https://www.dunkman.me/reading/.
+
 A collection of my thoughts on things.
 
 ## What things? 
